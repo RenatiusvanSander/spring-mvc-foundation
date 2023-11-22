@@ -11,5 +11,4 @@ public class AppInitializer implements WebApplicationInitializer {
 	public void onStartup(ServletContext servletContext) throws ServletException {
 		System.out.println("Hello World");
 	}
-
 }
